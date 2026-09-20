@@ -1,34 +1,40 @@
-# React Practice Projects
+# BG Color Changing
 
-A collection of hands-on React projects built while learning and improving React.js and frontend development skills.
+A simple React project that dynamically changes the background color using React state and user interactions.
 
-## Projects
+## Features
 
-| Project               | Description                                                                      |
-| --------------------- | -------------------------------------------------------------------------------- |
-| **BG Color Changing** | A React project that changes the background color dynamically using React state. |
+- Change the background color dynamically
+- Multiple color options
+- Instant UI updates
+- Simple and responsive interface
+
+## Concepts Practiced
+
+This project was built to practice:
+
+- Components
+- `useState`
+- Event Handling
+- State Updates
+- Dynamic Styling
+- Conditional Rendering
+- Tailwind CSS
 
 ## Tech Stack
 
 - React.js
 - JavaScript
 - Vite
-- HTML
-- CSS
 - Tailwind CSS
+- HTML
 
-## Purpose
+## What I Learned
 
-This repository contains my React practice projects and experiments as I learn React concepts such as:
+While building this project, I practiced managing state with `useState`, handling button click events, and updating the UI dynamically based on the current state.
 
-- Components
-- Props
-- State
-- Hooks
-- Event Handling
-- Conditional Rendering
-- Lists & Keys
-- Forms
-- API Integration
+## Project Status
 
-More projects will be added as I continue learning React.
+**Completed**
+
+More React practice projects will be added as I continue learning React.js.

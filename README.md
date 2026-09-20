@@ -4,31 +4,33 @@ A collection of hands-on React projects built while learning and improving React
 
 ## Projects
 
-| Project               | Description                                                                      |
-| --------------------- | -------------------------------------------------------------------------------- |
-| **BG Color Changing** | A React project that changes the background color dynamically using React state. |
+| Project                | Description                                                                                                          |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **BG Color Changing**  | A React project that changes the background color dynamically using React state.                                     |
+| **Password Generator** | A React project that generates random passwords based on user-selected options, using React state and `useCallback`. |
 
 ## Tech Stack
 
-* React.js
-* JavaScript
-* Vite
-* HTML
-* CSS
-* Tailwind CSS
+- React.js
+- JavaScript
+- Vite
+- HTML
+- CSS
+- Tailwind CSS
 
 ## Purpose
 
 This repository contains my React practice projects and experiments as I learn React concepts such as:
 
-* Components
-* Props
-* State
-* Hooks
-* Event Handling
-* Conditional Rendering
-* Lists & Keys
-* Forms
-* API Integration
+- Components
+- Props
+- State
+- Hooks
+- `useCallback`
+- Event Handling
+- Conditional Rendering
+- Lists & Keys
+- Forms
+- API Integration
 
 More projects will be added as I continue learning React.

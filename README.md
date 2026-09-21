@@ -27,6 +27,7 @@ This repository contains my React practice projects and experiments as I learn R
 - State
 - Hooks
 - `useCallback`
+- `useRef`
 - Event Handling
 - Conditional Rendering
 - Lists & Keys

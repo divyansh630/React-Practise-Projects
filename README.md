@@ -8,6 +8,7 @@ A collection of hands-on React projects built while learning and improving React
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **BG Color Changing**  | A React project that changes the background color dynamically using React state.                                     |
 | **Password Generator** | A React project that generates random passwords based on user-selected options, using React state and `useCallback`. |
+| **Currency Convertor** | A React-based currency converter that converts amounts between different currencies using live exchange rates..      |
 
 ## Tech Stack
 
@@ -28,6 +29,8 @@ This repository contains my React practice projects and experiments as I learn R
 - Hooks
 - `useCallback`
 - `useRef`
+- `useEffect`
+- `useId`
 - Event Handling
 - Conditional Rendering
 - Lists & Keys

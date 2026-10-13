@@ -1,1 +1,5 @@
-A React mini-project exploring the Context API to manage and share theme state across components, with light and dark mode functionality (in progress).
+# Theme Changer
+
+A React project demonstrating light and dark mode switching using Context API and Tailwind CSS v4 with custom dark mode configuration.
+
+**Concepts:** React Context API, useState, useEffect, Tailwind CSS, Custom Dark Mode Variant.

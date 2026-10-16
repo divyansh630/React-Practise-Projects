@@ -1,1 +1,1 @@
-A Todo app built with React and Context API to manage tasks and share state across components (Work in Progress).
+A React Todo app built with Context API, featuring add, edit, delete, toggle completion, and localStorage persistence.

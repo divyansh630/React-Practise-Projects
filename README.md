@@ -13,6 +13,7 @@ A collection of hands-on React projects built while learning and improving React
 | **MiniContext**        | A simple React mini-project demonstrating the Context API to manage and display a username entered through a form (styling in progress). |
 | **ThemeChanger**       | A React project demonstrating light and dark mode switching using Context API and Tailwind CSS v4 with custom dark mode configuration.   |
 | **Todo**               | A React Todo app built with Context API, featuring add, edit, delete, toggle completion, and localStorage persistence.                   |
+| **Todo2**              | A React Todo app built with Redux Toolkit, featuring add delete.                                                                         |
 
 ## Tech Stack
 
@@ -22,6 +23,7 @@ A collection of hands-on React projects built while learning and improving React
 - HTML
 - CSS
 - Tailwind CSS
+- Redux Toolkit
 
 ## Purpose
 

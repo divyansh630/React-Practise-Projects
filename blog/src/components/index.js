@@ -5,5 +5,6 @@ import Logo from "./logo.jsx";
 import LogOutBtn from "./header/LogOutBtn";
 import Button from "./button";
 import Input from "./Input.jsx";
+import RTE from "./RTE.jsx";
 
-export { Header, Footer, Container, Logo, LogOutBtn, Button, Input };
+export { Header, Footer, Container, Logo, LogOutBtn, Button, Input, RTE };

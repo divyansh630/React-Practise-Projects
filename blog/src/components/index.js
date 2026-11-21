@@ -6,5 +6,24 @@ import LogOutBtn from "./header/LogOutBtn";
 import Button from "./button";
 import Input from "./Input.jsx";
 import RTE from "./RTE.jsx";
+import Signup from "./SignUp.jsx";
+import Login from "./Login.jsx";
+import PostForm from "./Post-Form/PostForm.jsx";
+import PostCard from "./PostCard.jsx";
+import AuthLayout from "./AuthLayout.jsx";
 
-export { Header, Footer, Container, Logo, LogOutBtn, Button, Input, RTE };
+export {
+  Header,
+  Footer,
+  Container,
+  Logo,
+  LogOutBtn,
+  Button,
+  Input,
+  RTE,
+  Signup,
+  Login,
+  PostForm,
+  PostCard,
+  AuthLayout,
+};
